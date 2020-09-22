@@ -5,7 +5,6 @@ module.exports = {
     description: `Albertus Andito's personal website`,
     author: `@albertus-andito`,
   },
-  pathPrefix: "/personal-web",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
