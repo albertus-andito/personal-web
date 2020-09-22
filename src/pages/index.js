@@ -9,6 +9,6 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <LandingBio />
   </Layout>
-)
+);
 
 export default IndexPage

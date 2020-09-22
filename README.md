@@ -143,7 +143,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 4. **`/pages`**: Here is where your pages like `/blog`, `/about` and also the 404 page lives. An example of the basic structure can be found above.
 
-5. **`/templates`**: You will find the `blog-post.js` template there which defines how every blog-post page is structured.
+5. **`/templates`**: You will find the `normal-page.js` template there which defines how every blog-post page is structured.
 
 ## 🎓 Learning Gatsby
 

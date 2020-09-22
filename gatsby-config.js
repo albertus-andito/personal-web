@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Julia Doe`,
+    title: `Albertus Andito`,
     subtitle: `software developer`,
     description: `A minimal blog starter built with Gatsbyjs. The needed Gatsby files are included.`,
-    author: `@niklasmtj`,
+    author: `@albertus-andito`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -27,7 +27,26 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-reading-time`, {
+        plugins: [`gatsby-remark-reading-time`,
+          {
+            resolve: "gatsby-remark-embed-spotify",
+            options: {
+              width: "100%",
+              height: 250,
+            }
+          },
+          {
+            resolve: `gatsby-remark-copy-linked-files`,
+            options: {
+              ignoreFileExtensions: [],
+            }
+          }, {
+          resolve: `gatsby-remark-autolink-headers`,
+          options : {
+            icon: false,
+            removeAccents: true,
+          }
+          }, {
           resolve: `gatsby-remark-prismjs`,
           options: {
             aliases:{sh: "bash", js:"javascript"},
@@ -61,11 +80,11 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/profile.jpg`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // 'gatsby-plugin-offline',
   ],
-}
+};
