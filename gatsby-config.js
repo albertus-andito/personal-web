@@ -5,6 +5,7 @@ module.exports = {
     description: `A minimal blog starter built with Gatsbyjs. The needed Gatsby files are included.`,
     author: `@albertus-andito`,
   },
+  pathPrefix: "/personal-web",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
