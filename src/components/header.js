@@ -39,6 +39,9 @@ const SiteHeader = styled.header`
   display: flex;
   flex-direction: row;
   height: 60px;
+  @media (max-width: 480px) {
+    height: 90px;
+  }
   align-content: center;
   justify-content: center;
   position: sticky;
