@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Albertus Andito`,
     subtitle: `software developer`,
-    description: `A minimal blog starter built with Gatsbyjs. The needed Gatsby files are included.`,
+    description: `Albertus Andito's personal website`,
     author: `@albertus-andito`,
   },
   pathPrefix: "/personal-web",
@@ -29,6 +29,12 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [`gatsby-remark-reading-time`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800,
+            },
+          },
           {
             resolve: "gatsby-remark-embed-spotify",
             options: {
