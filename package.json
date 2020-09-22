@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-julia",
-  "private": true,
-  "description": "A minimal blog template built with Gatsby",
-  "version": "0.1.0",
-  "author": "Niklas Metje <hi@niklasmtj.de>",
+  "name": "personal-web",
+  "private": false,
+  "description": "Albertus Andito's personal website",
+  "version": "1.0.0",
+  "author": "Albertus Andito <albertus.andito@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
