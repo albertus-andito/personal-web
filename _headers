@@ -84,15 +84,6 @@
   Link: </personal-web/component---src-templates-normal-page-js-fc5e8da66e25859a5b39.js>; rel=preload; as=script
   Link: </personal-web/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </personal-web/page-data/experience/page-data.json>; rel=preload; as=fetch; crossorigin
-/personal-web/music
-  Link: </personal-web/webpack-runtime-7f8d7cc38904bf7a1939.js>; rel=preload; as=script
-  Link: </personal-web/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </personal-web/framework-5fc6169171e885c3b522.js>; rel=preload; as=script
-  Link: </personal-web/app-5ffc602d5f40ac540dcb.js>; rel=preload; as=script
-  Link: </personal-web/commons-673f66fac16e6ba0eabb.js>; rel=preload; as=script
-  Link: </personal-web/component---src-templates-normal-page-js-fc5e8da66e25859a5b39.js>; rel=preload; as=script
-  Link: </personal-web/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </personal-web/page-data/music/page-data.json>; rel=preload; as=fetch; crossorigin
 /personal-web/skills
   Link: </personal-web/webpack-runtime-7f8d7cc38904bf7a1939.js>; rel=preload; as=script
   Link: </personal-web/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -102,6 +93,15 @@
   Link: </personal-web/component---src-templates-normal-page-js-fc5e8da66e25859a5b39.js>; rel=preload; as=script
   Link: </personal-web/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </personal-web/page-data/skills/page-data.json>; rel=preload; as=fetch; crossorigin
+/personal-web/music
+  Link: </personal-web/webpack-runtime-7f8d7cc38904bf7a1939.js>; rel=preload; as=script
+  Link: </personal-web/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </personal-web/framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </personal-web/app-5ffc602d5f40ac540dcb.js>; rel=preload; as=script
+  Link: </personal-web/commons-673f66fac16e6ba0eabb.js>; rel=preload; as=script
+  Link: </personal-web/component---src-templates-normal-page-js-fc5e8da66e25859a5b39.js>; rel=preload; as=script
+  Link: </personal-web/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </personal-web/page-data/music/page-data.json>; rel=preload; as=fetch; crossorigin
 /personal-web/404/
   Link: </personal-web/webpack-runtime-7f8d7cc38904bf7a1939.js>; rel=preload; as=script
   Link: </personal-web/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
