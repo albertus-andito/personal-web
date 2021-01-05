@@ -22,6 +22,8 @@ Industrial placement year: Software Engineer Intern at Oracle
 Final year modules: Comparative Programming ● Computer Science Project ● Human-Computer Interaction ● Introduction to 
 Computer Security ● Advance Natural Language Engineering ● Limits of Computation    
 
+Currently undertaking a Final Year Project on ["Using Dynamic Knowledge Graph for Fake News Detection"](/dissertation).
+
 
 ###[University of Sussex International Study Centre](https://isc.sussex.ac.uk/)
 ####[Computing (International Year One)](https://isc.sussex.ac.uk/our-courses/international-year-one/computing)

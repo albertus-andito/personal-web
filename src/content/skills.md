@@ -7,13 +7,14 @@ path: "/skills"
 ###Technologies
 - Java
 - Python
-- JavaScript
+- JavaScript / NodeJS
 - Bash
 - Docker
 - Kubernetes
 - Helm
 - Git
 - SQL
+- MongoDB
 - React
 - Gatsby
 - Jenkins

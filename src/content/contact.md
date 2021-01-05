@@ -15,3 +15,5 @@ September 2021, ideally in the UK.
 
 I am also looking for graduate roles. My past experience made me more inclined towards Software Engineering roles, however I am 
 open for other roles related to tech.
+
+Latest [CV](cv.pdf)

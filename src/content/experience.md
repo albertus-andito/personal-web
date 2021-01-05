@@ -7,6 +7,21 @@ path: "/experience"
 
 ##Work Experience
 
+###[PPI UK](https://ppiuk.org/)
+####Data and Digital Technology Staff
+#####October 2020 - Present
+A voluntary position with the Indonesian Student Association in the UK, in the Data and Digital Technology Department.
+
+Our main project is to create a database portal of all Indonesian student profiles in the UK, which can be accessed by the students.
+Focused on the backend and authorization development.
+
+Technologies used: NodeJS, Express REST API, ReactJS, MongoDB, OAuth2.
+
+###[University of Sussex](https://sussex.ac.uk)
+####Student Demonstrator
+#####October 2020 - Present
+Assisting lab tutor by helping first-year students and answering queries in Introduction to Programming's weekly lab sessions
+
 ###[Oracle](https://www.oracle.com/index.html)
 ####Software Engineer Intern
 #####July 2019 - September 2020
@@ -21,6 +36,8 @@ a guide on how to use the framework components, and creating an automated end-to
 
 Then for the second half of the internship, I joined the Core architecture team that develops the framework components, 
 using Kanban agile methodology. I was involved in implementing new features, as well as maintaining the framework.
+
+Throughout the internship, I have expanded my ability to write high-quality and clean production code using design patterns.
 
 Technologies used: Java, Docker, Kubernetes, Git, Oracle Cloud Infrastructure, Bash, Jenkins
 

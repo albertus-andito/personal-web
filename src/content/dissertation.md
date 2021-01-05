@@ -4,15 +4,19 @@ draft: false
 path: "/dissertation"
 ---
 
-For my undergraduate degree dissertation (also called Final Year Project or FYP), I will undertake a project that I proposed, 
-which is "Real-Time Ground Truth Update For Fake News Early Detection" (interim title).
+For my undergraduate degree dissertation (also called Final Year Project or FYP), I am undertaking a project that I proposed, 
+which is "Using Dynamic Knowledge Graph for Fake News Early Detection".
 
-A short description of this project is as follows:
+Download [this file](InterimReport.pdf) to read the interim report that I submitted.
+
+The code for this ongoing project is available on [GitHub](https://github.com/albertus-andito/fake-news-detection).
+
+A short description of this project that I used as the initial proposal is as follows:
 
 > News are often about recent events, including events that are still happening. Thus, some knowledge and facts could become 
 invalid in just a short period of time. A fake news detection system should be able to cope with such timeliness of news.
 
-> As discussed, this project involves creating a prototype of a fake news early detection system, which automatically keeps 
+> This project involves creating a prototype of a fake news early detection system, which automatically keeps 
 the knowledge graph (where the ground truth is stored) updated in real-time. One way to do it is to scrape several trusted 
 news sites every period of time. Then, for every news, the system extracts the SPO (Subject, Predicate, Object) triples 
 from the facts, and puts them into the (dynamic) knowledge graph. Maybe some facts are already out of date, then the system 
