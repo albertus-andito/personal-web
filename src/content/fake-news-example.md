@@ -1,0 +1,1 @@
+Joe Rogan denies accusations. He signed an autograph and say something.
