@@ -2,7 +2,7 @@
   "name": "personal-web",
   "private": false,
   "description": "Albertus Andito's personal website",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Albertus Andito <albertus.andito@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.28",
