@@ -48,8 +48,8 @@ const LandingBio = () => (
         <Container>
           <ProfileImage src={profile} alt="author's profile picture" title="author's profile picture"/>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
-            <Description>I am a final year Computer Science student at the <a href="https://sussex.ac.uk">University of Sussex </a>, Brighton, UK, <br />
-            with a year of experience in industry. <br />
+            <Description>I am a recent graduate from the <a href="https://sussex.ac.uk">University of Sussex</a>, Brighton, UK, <br />
+            with a Bachelor's degree in Computer Science, with a year of experience in industry. <br />
             I hail from <a href="https://en.wikipedia.org/wiki/Bandung">Bandung</a>, Indonesia. <br />
             I always embrace the rapid changes of technology and am not afraid to learn.
           </Description>

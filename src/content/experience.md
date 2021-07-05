@@ -6,21 +6,39 @@ path: "/experience"
 
 
 ##Work Experience
+###[University of Sussex](https://sussex.ac.uk)
+####Research Assistant
+#####May 2021 - Present
+I am working with [Linguistics department](http://www.sussex.ac.uk/english/research) of the university on the 
+[Mass Observation](http://www.massobs.org.uk/) Visualisation project.
+The linguists are interested to see how people in different parts in the UK are responding to the same question or topic 
+presented in the Mass Observation directives.
+
+By applying Natural Language Processing techniques, I help visualising the texts into a geographical map
+and other means of visualisations. 
+
+Technologies used: Python, Spacy, NLTK WordNet, Streamlit, FastAPI.
+
 
 ###[PPI UK](https://ppiuk.org/)
-####Data and Digital Technology Staff
+####Full Stack Developer
 #####October 2020 - Present
 A voluntary position with the Indonesian Student Association in the UK, in the Data and Digital Technology Department.
 
-Our main project is to create a database portal of all Indonesian student profiles in the UK, which can be accessed by the students.
-Focused on the backend and authorization development.
+Our main project is to create a database portal of all Indonesian student profiles in the UK, which can be accessed by the students
+via [portal.ppiuk.org](https://portal.ppiuk.org).
+
+I am focused on the development of the backend and authorisation (SSO) development, with some contributions in  the frontend development.
+Our SSO is also integrated with our discussion forum [forum.ppiuk.org](https://forum.ppiuk.org)
 
 Technologies used: NodeJS, Express REST API, ReactJS, MongoDB, OAuth2.
 
 ###[University of Sussex](https://sussex.ac.uk)
 ####Student Demonstrator
-#####October 2020 - Present
-Assisting lab tutor by helping first-year students and answering queries in Introduction to Programming's weekly lab sessions
+#####October 2020 - May 2021
+Assisted tutor on first year modules ([Introduction to Programming](http://www.sussex.ac.uk/ei/internal/coursesandmodules/informatics/ugcourses/2020/G40F0U/83182) 
+and [Further Programming](http://www.sussex.ac.uk/ei/internal/coursesandmodules/informatics/ugcourses/2020/G40F0U/82276)) 
+weekly lab sessions by helping students and answering student queries with Java programming.
 
 ###[Oracle](https://www.oracle.com/index.html)
 ####Software Engineer Intern

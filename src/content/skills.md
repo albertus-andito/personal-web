@@ -8,31 +8,30 @@ path: "/skills"
 - Java
 - Python
 - JavaScript / NodeJS
+- ReactJS
 - Bash
+- SQL
+- MongoDB
 - Docker
 - Kubernetes
 - Helm
 - Git
-- SQL
-- MongoDB
-- React
-- Gatsby
 - Jenkins
-- Scikit-Learn
 
 ###Knowledge & Concepts
 - Object-oriented programming
 - Microservices
 - Cloud computing
 - Agile software development
+- Natural Language Processing
 - Machine Learning
 - Neural Networks
-- Natural Language Processing
 
 ###Soft Skills
 - Adaptability
 - Eagerness to learn
 - Problem solving
+- Research
 - Effective presentation
 
 ###Languages

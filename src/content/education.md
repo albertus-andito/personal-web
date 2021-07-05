@@ -9,20 +9,19 @@ path: "/education"
 ####[BSc Computer Science (with an industrial placement year)](https://www.sussex.ac.uk/study/undergraduate/courses/computer-science-with-an-industrial-placement-year-bsc)
 #####September 2017 - July 2021
 #####Brighton, UK
-After I finished the [International Year One](#university-of-sussex-international-study-centre) programme, I progressed 
-to year 2 at the university, starting from September 2018.  
+
+Final result: First Class Honours (86%)
+
+My Final Year Project on ["Using Dynamic Knowledge Graph for Fake News Detection"](/dissertation) received a final mark of 87%.
 
 Year 2 modules:
 Compilers and Computer Architecture ● Databases ● Natural Language Engineering ● Program Analysis ● Computer Networks ● 
 Fundamentals of Machine Learning ● Operating Systems ● Software Engineering  
-Year 2 results: First-class (84%)
 
 Industrial placement year: Software Engineer Intern at Oracle
 
 Final year modules: Comparative Programming ● Computer Science Project ● Human-Computer Interaction ● Introduction to 
 Computer Security ● Advance Natural Language Engineering ● Limits of Computation    
-
-Currently undertaking a Final Year Project on ["Using Dynamic Knowledge Graph for Fake News Detection"](/dissertation).
 
 
 ###[University of Sussex International Study Centre](https://isc.sussex.ac.uk/)
@@ -33,7 +32,8 @@ A pathway for international students to progress to second year at University of
 
 Modules: Introduction to Programming ● Algorithmic Thinking ● Multimedia Computing ● Mathematics for Computing ● Further 
 Programming ● Data Structures with Java ● Fundamentals of Computer Systems ● Career Ahead for Computing ● Academic English Skills  
-Result: First-class
+
+Result: First-class (91%)
 
 ###[SMA Asisi](https://sekolahasisi.sch.id/index.php/sma)
 ####High school - Maths & Natural Sciences stream

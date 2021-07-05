@@ -4,12 +4,15 @@ draft: false
 path: "/dissertation"
 ---
 
-For my undergraduate degree dissertation (also called Final Year Project or FYP), I am undertaking a project that I proposed, 
+For my undergraduate degree dissertation (also called Final Year Project or FYP), I have undertaken a project that I proposed, 
 which is "Using Dynamic Knowledge Graph for Fake News Early Detection".
 
-Download [this file](InterimReport.pdf) to read the interim report that I submitted.
+This project received a final mark of 87%.
 
-The code for this ongoing project is available on [GitHub](https://github.com/albertus-andito/fake-news-detection).
+Download [this file](report-preview.pdf) to read the preview of the final report that I submitted.
+Please do [contact me](/contact) if you want to read the full final report.
+
+The code for this project is available on [GitHub](https://github.com/albertus-andito/fake-news-detection).
 
 A short description of this project that I used as the initial proposal is as follows:
 
@@ -29,7 +32,4 @@ user to check whether the ground truth should be updated when the facts are beli
 > The scope of this project should be limited to make it more feasible, such as by limiting the number of predicates or 
 entity types, or maybe limiting the domain.
 
-This page will be updated with the progress of the project.
-
-Anyone that has interest in this topic or has any suggestion, feel free to contact me.
 
